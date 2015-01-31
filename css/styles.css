@@ -1,0 +1,33 @@
+
+h1 {
+	color: black;
+}
+a {
+	color: magenta;
+}
+a:hover {
+	text-decoration: none;
+}
+
+.twitter {
+	color: blue;
+}
+
+.google {
+	color: green;
+}
+
+li {
+	list-style-type: circle;
+}
+h2.pos_fixed {
+	position: fixed;
+	top: 1px
+	right: 100px;
+}
+
+body {
+    background-image: url("../images/koala.jpg");
+    background-position: relative;
+    background-size: cover;
+}
